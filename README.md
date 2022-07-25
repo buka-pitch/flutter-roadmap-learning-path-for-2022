@@ -2,7 +2,7 @@
 
 ## I found it hard to get roadmap and some other information about flutter and paths here is the best learning roadmap that i found for flutter
 
-<img src="0_aS8X3B8eo-2T-6eP.png"/>
+<img src="0_aS8X3B8eo-2T-6eP.png" alt="flutter roadmap"/>
 
 # Here are some blog post articles to check for detail topics like
 
